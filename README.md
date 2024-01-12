@@ -1,7 +1,7 @@
 ### Hi there 👋
 NoScription  noss 挖矿工具..
 
-[https://github.com/nossPow/NossPow/releases/tag/v0.0.2]
+[https://github.com/nossPow/NossPow/releases/tag/v0.0.3]
 
 下载最新版谷歌Chrome浏览器,使用TokenPacket钱包插件,安全起见注册一个新钱包。
 
